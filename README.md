@@ -1,5 +1,5 @@
-![icon](https://github.com/user-attachments/assets/d6cdd9f9-eb46-49cb-863c-15fc4ba6c688 =200x200)
-<img src="https://github.com/user-attachments/assets/d6cdd9f9-eb46-49cb-863c-15fc4ba6c688" />
+
+<div style="width:100%;display:flex;justify-content:center;"><img style="width:200px;height:200px;" src="https://github.com/user-attachments/assets/d6cdd9f9-eb46-49cb-863c-15fc4ba6c688" /></div> 
 
 # shipfast
 A rust web framework for shiping fast.
