@@ -3,3 +3,9 @@
 
 # shipfast
 A rust web framework for shiping fast.
+
+#concepts
+- create ( --shipfast create <appname> )
+- build ( code it )
+- run ( --shipfast run )
+- deploy ( --shipfast deploy )
